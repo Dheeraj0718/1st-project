@@ -64,6 +64,7 @@ h2 {
 }
 p {
 	position: absolute;
+	font-weight: 600;
 	top: 10%;
 	left: 3%;
 	right: 3%;
